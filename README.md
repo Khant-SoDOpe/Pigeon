@@ -33,6 +33,8 @@ The "user_data" folder contains text file(s) used to store user information, suc
 
 ## **Python**
 
+### Data.html
 The "data.html" file is responsible for sending emails based on the data provided in "count.html".
 
+### index.html
 The "index.html" file serves as a page where users can submit data and send it to their respective folders.
